@@ -1,2 +1,2 @@
-# Proyecto-de-grado
-Código del videojuego desarrollado para un proyecto de grado.
+# Degree Proyect
+Videogame code developed for a degree project.
